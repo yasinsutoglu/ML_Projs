@@ -1,7 +1,7 @@
 <h1 align="center">MachineLearning Projects Folder</h1>
 
 <h3>Overview</h3>
-👨‍💻 In this folder I shared my basic GenAI projects while practicing beforely.
+👨‍💻 In this folder I shared my basic ML projects while practicing beforely.
 <hr>
 
 <!-- ![Alt text](https://giphy.com/peekasso)  -->
